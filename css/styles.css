@@ -1,0 +1,39 @@
+#initially-hiding {
+  display: none;
+}
+
+#hide2 {
+  display: none;
+}
+
+#hide3 {
+  display: none;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
